@@ -1,4 +1,12 @@
-﻿
+﻿///<summary>
+/// Class is the description of objects propety and behaviour.
+/// Class is the collection of self contained independent variable(property) and method(member function) which works together to perform one or more specific tasks
+/// 
+/// 
+/// Objec is the real world entity or instance of class and consumes memory
+/// Once class is defined then object is created using new keyword
+/// Then Object can access the property and method via (.) dot operator
+/// </summary>
 using System;
 
 namespace Unit_3_ClassesAndObject
