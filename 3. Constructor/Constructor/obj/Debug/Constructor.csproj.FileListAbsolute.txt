@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\DELL\Desktop\Dot Net Technology\Constructor\Constructor\obj\Debug\Constructor.pdb

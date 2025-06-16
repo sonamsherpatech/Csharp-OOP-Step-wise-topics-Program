@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\bin\Debug\StaticClassAndConstructor.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\bin\Debug\StaticClassAndConstructor.exe
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\bin\Debug\StaticClassAndConstructor.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\obj\Debug\StaticClassAndConstructor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\obj\Debug\StaticClassAndConstructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\obj\Debug\StaticClassAndConstructor.exe
+C:\Users\DELL\Desktop\Dot Net Technology\StaticClassAndConstructor\StaticClassAndConstructor\obj\Debug\StaticClassAndConstructor.pdb

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unit_3_ClassesAndObject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|c:\\users\\dell\\desktop\\dot net technology\\unit_3_classesandobject\\unit_3_classesandobject\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|solutionrelative:unit_3_classesandobject\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|c:\\users\\dell\\desktop\\dot net technology\\unit_3_classesandobject\\unit_3_classesandobject\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|solutionrelative:unit_3_classesandobject\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|c:\\users\\dell\\desktop\\dot net technology\\unit_3_classesandobject\\unit_3_classesandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|solutionrelative:unit_3_classesandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5045C87D-53C7-48AF-84B7-D505B9890282}|Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj|c:\\users\\dell\\desktop\\dot net technology\\unit_3_classesandobject\\unit_3_classesandobject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit_3_ClassesAndObject",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj",
+              "RelativeDocumentMoniker": "Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj",
+              "RelativeToolTip": "Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T04:43:18.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Test3.cs",
+              "RelativeDocumentMoniker": "Unit_3_ClassesAndObject\\Test3.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Test3.cs",
+              "RelativeToolTip": "Unit_3_ClassesAndObject\\Test3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:43:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Unit_3_ClassesAndObject\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Rectangle.cs",
+              "RelativeToolTip": "Unit_3_ClassesAndObject\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:37:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Program.cs",
+              "RelativeDocumentMoniker": "Unit_3_ClassesAndObject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Unit_3_ClassesAndObject\\Unit_3_ClassesAndObject\\Program.cs",
+              "RelativeToolTip": "Unit_3_ClassesAndObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:27:59.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

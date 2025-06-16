@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|c:\\users\\dell\\desktop\\dot net technology\\constructor\\constructor\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|solutionrelative:constructor\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Constructor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|c:\\users\\dell\\desktop\\dot net technology\\constructor\\constructor\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|solutionrelative:constructor\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|c:\\users\\dell\\desktop\\dot net technology\\constructor\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|solutionrelative:constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C962D-6426-4079-A8FA-B5BFA5733547}|Constructor\\Constructor.csproj|c:\\users\\dell\\desktop\\dot net technology\\constructor\\constructor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Time.cs",
+              "RelativeDocumentMoniker": "Constructor\\Time.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Time.cs*",
+              "RelativeToolTip": "Constructor\\Time.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:06:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constructor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Constructor.csproj",
+              "RelativeDocumentMoniker": "Constructor\\Constructor.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Constructor.csproj",
+              "RelativeToolTip": "Constructor\\Constructor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T06:05:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Distance.cs",
+              "RelativeDocumentMoniker": "Constructor\\Distance.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Distance.cs",
+              "RelativeToolTip": "Constructor\\Distance.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:48:33.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\Constructor\\Constructor\\Program.cs",
+              "RelativeToolTip": "Constructor\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:11:27.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

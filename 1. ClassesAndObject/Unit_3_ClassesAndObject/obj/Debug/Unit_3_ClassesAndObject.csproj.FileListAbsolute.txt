@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\bin\Debug\Unit_3_ClassesAndObject.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\bin\Debug\Unit_3_ClassesAndObject.exe
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\bin\Debug\Unit_3_ClassesAndObject.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\obj\Debug\Unit_3_ClassesAndObject.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\obj\Debug\Unit_3_ClassesAndObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\obj\Debug\Unit_3_ClassesAndObject.exe
+C:\Users\DELL\Desktop\Dot Net Technology\Unit_3_ClassesAndObject\Unit_3_ClassesAndObject\obj\Debug\Unit_3_ClassesAndObject.pdb
