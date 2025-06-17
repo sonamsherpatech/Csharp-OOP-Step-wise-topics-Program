@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\enumerationex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\enumerationex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|4. StructureAndEnumeration||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\enumerationex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\enumerationex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\additionalenumerationquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\additionalenumerationquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\structureex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\structureex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\additionalstructurequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\additionalstructurequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\structureex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|solutionrelative:4. structureandenumeration\\structureex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F79AE-2482-40F7-939C-4CEB57FFDB57}|4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj|c:\\users\\dell\\desktop\\dot net technology\\4. structureandenumeration\\4. structureandenumeration\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4. StructureAndEnumeration",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj",
+              "RelativeToolTip": "4. StructureAndEnumeration\\4. StructureAndEnumeration.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T01:35:34.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumerationEx2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\EnumerationEx2.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\EnumerationEx2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\EnumerationEx2.cs*",
+              "RelativeToolTip": "4. StructureAndEnumeration\\EnumerationEx2.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:57:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditionalEnumerationQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\AdditionalEnumerationQuestion.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\AdditionalEnumerationQuestion.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\AdditionalEnumerationQuestion.cs",
+              "RelativeToolTip": "4. StructureAndEnumeration\\AdditionalEnumerationQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:56:07.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumerationEx1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\EnumerationEx1.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\EnumerationEx1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\EnumerationEx1.cs",
+              "RelativeToolTip": "4. StructureAndEnumeration\\EnumerationEx1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:39:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdditionalStructureQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\AdditionalStructureQuestion.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\AdditionalStructureQuestion.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\AdditionalStructureQuestion.cs",
+              "RelativeToolTip": "4. StructureAndEnumeration\\AdditionalStructureQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:23:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StructureEx2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\StructureEx2.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\StructureEx2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\StructureEx2.cs",
+              "RelativeToolTip": "4. StructureAndEnumeration\\StructureEx2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:22:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StructureEx1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\StructureEx1.cs",
+              "RelativeDocumentMoniker": "4. StructureAndEnumeration\\StructureEx1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dot Net Technology\\4. StructureAndEnumeration\\4. StructureAndEnumeration\\StructureEx1.cs",
+              "RelativeToolTip": "4. StructureAndEnumeration\\StructureEx1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:06:48.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

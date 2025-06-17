@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\bin\Debug\_4.StructureAndEnumeration.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\bin\Debug\_4.StructureAndEnumeration.exe
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\bin\Debug\_4.StructureAndEnumeration.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\obj\Debug\4. StructureAndEnumeration.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\obj\Debug\4. StructureAndEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\obj\Debug\_4.StructureAndEnumeration.exe
+C:\Users\DELL\Desktop\Dot Net Technology\4. StructureAndEnumeration\4. StructureAndEnumeration\obj\Debug\_4.StructureAndEnumeration.pdb
