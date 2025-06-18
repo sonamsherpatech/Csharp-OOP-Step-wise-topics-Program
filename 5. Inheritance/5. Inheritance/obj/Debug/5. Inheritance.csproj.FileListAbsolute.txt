@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\bin\Debug\_5.Inheritance.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\bin\Debug\_5.Inheritance.exe
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\bin\Debug\_5.Inheritance.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\obj\Debug\5. Inheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\obj\Debug\5. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\obj\Debug\_5.Inheritance.exe
+C:\Users\DELL\Desktop\Dot Net Technology\5. Inheritance\5. Inheritance\obj\Debug\_5.Inheritance.pdb
