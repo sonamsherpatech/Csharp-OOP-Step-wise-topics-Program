@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E19FEE12-E008-46EA-AA7D-3C92F2D8B56B}</ProjectGuid>
+    <ProjectGuid>{94C6B80B-8156-4AFD-B7FA-D1AA75C2DBBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_5.Inheritance</RootNamespace>
-    <AssemblyName>_5.Inheritance</AssemblyName>
+    <RootNamespace>_6.Interface</RootNamespace>
+    <AssemblyName>_6.Interface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_5.Inheritance.InheritanceEx2</StartupObject>
+    <StartupObject>_6.Interface.InterfaceEx2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InheritanceEx2.cs" />
+    <Compile Include="InterfaceEx2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

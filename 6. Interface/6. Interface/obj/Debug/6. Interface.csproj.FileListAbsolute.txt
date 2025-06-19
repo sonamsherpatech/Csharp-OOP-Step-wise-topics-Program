@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\bin\Debug\_6.Interface.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\bin\Debug\_6.Interface.exe
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\bin\Debug\_6.Interface.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\obj\Debug\6. Interface.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\obj\Debug\6. Interface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\obj\Debug\_6.Interface.exe
+C:\Users\DELL\Desktop\Dot Net Technology\6. Interface\6. Interface\obj\Debug\_6.Interface.pdb
