@@ -1,0 +1,177 @@
+OOP in C# (NOTES)
+
+1. Classes and Object
+	Class is the description of objects propety and behaviour.
+	Class is the collection of self contained independent variable(property) and 	method(member function) which works together to perform one or more specific tasks
+	
+	SYNTAX:
+	<access_modifier> class <class_name> {
+		//properties and methods
+	}
+
+	Object is the real world entity or instance of class and consumes memory
+	Once class is defined then object is created using new keyword
+	Then Object can access the property and method via (.) dot operator
+
+	SYNTAX:
+	<class_name> <object_name> = new <class_name>();
+
+2. Static Class and Static Constructor
+	Static class is a class with static keyword and cannot be instantiated
+	Static class contains static data member and member function
+	Static class is sealed meaning it cannot be inherited
+
+	SYNTAX:
+	<access_modifier> static class <class_name> {
+		//static property and methods
+	}
+	We can access Static class property and method using <class_name>.(property/method)
+
+	
+	Static constructor is a special member function that is used to initialize the static 	property of object and is defined with static keyword
+	Static have no argument or modifier
+	Static constructor is invoked implicitly before first instance is created or any 	static member referenced
+
+	SYNTAX:
+	static <class_name>() {
+		//define static property of class
+	}
+
+
+3. Constructor
+	In C#, Constructor are special member function that is used to initialize he property 	of a class and is invoked automatically when a class is instantiated.
+	
+	There are two types of Constructor in c#:
+	1) Parameterless Constructor
+		- It is also known as default constructor. This type of constructor doesn't 
+		contain any parameter. Used to set default values for class properties
+		SYNTAX:
+		<access_modifier> <class_name>() {
+			//define property
+		}
+	2) Parameterized Constructor
+		- This type of constructor contains one or more parameters which is generally 		used to initialized the property of class with specific values at the time 		of object creation.
+		
+		SYNTAX:
+		<access_modifier> <class_name>(p1, p2, ...) {
+			this.prop1 = p1
+			this.prop2 = p2
+			.	
+			.
+		}
+
+4. Structure
+	Structure is collection of heterogenous data under single variable. It is similar to 	class but more lightweight and mainly used for small data objects
+ 
+	KEY DIFFERENCE BETWEEN STRUCTURE AND CLASS
+	-> Structure is a value type whereas class is a reference type
+	-> Structures are stored in stack whereas classes are stored in heap
+	-> We cannot define parameterless constructor in sturcture but we can in classes
+ 
+	SYNTAX
+	<access_modifier> struct <struct_name> {
+    		property and methods
+	} 
+
+5. Enumeration
+	Enumeration or (enum) is a user defined value type that consists of set of named 	constants called enumerator list
+	It makes code more readable and meaningful by using names instead of numbers for 	related constants values
+ 
+	KEY POINTS:
+	-> Enum are value type
+	-> By default, the underlying type is int
+	-> Can change the underlying type to byte, short etc
+	-> By default first element of enum list is represented by integer 0
+	-> Can assign specific numeric values to the names
+ 
+	SYNTAX
+	enum <enum_name> {
+    		//enum list
+	}
+
+6. Inheritance
+	Inheritance is a process of acquring property of one object into another object.
+	It is the process of creating new class from existing class
+	It maintains IS-A relationship or parent-child relationship
+	
+	USES: -> code resuability and to perform runtime polymorphism
+	
+	Base Class: Class whose propeties are inherited are known as base or parent class
+	Derived Class: Class who inherits the properties from parent/base class are known as 	derived class/ child class
+	
+	TYPES OF INHERITANCE:
+	i) Single Level Inheritance: In single level inheritance, a child class inherits the 	properties and methods from a parent class.
+	    SYNTAX:
+	    <access_modifier> class <parent_name> {
+	        //property and method
+	    }
+	    
+	    <access_modifier> class <child_class> : <parent_class> {
+	        //inherits property and method from parent class
+	        //its own property and method
+	    }
+	    
+	ii) Multi Level Inheritance: In multi level inheritance, a child class inherits the 	properties and methods from a parent class which in turns inherits properties and 	methods from a grand parent class
+	    SYNTAX:
+	    
+	    <access_modifier> class <grandparent_class> {
+	        //property and method
+	     }
+	    
+	    <access_modifier> class <parent_class> : <grandparent_class> {
+	        //inherits property and method from grandparent class
+	        //its own property and method
+	    }
+	    
+	    <access_modifier> class <child_class> : <parent_class> {
+	        //inherits property and method from parent and grandparent class
+	        //its own property and method
+	    }
+	   
+	iii) Hierarchical Inheritance: In heirarchical inheritance, a parent class property 	and methods are inherited by one or more child class
+	    SYNTAX: 
+	    
+	    <access_modifier> class <parent_name> {
+	         //property and method
+	    }
+	    
+	    <access_modifier> class <child_class1> : <parent_class> {
+	        //inherits property and method from parent class
+	        //its own property and method
+	    }
+	
+	    <access_modifier> class <child_class2> : <parent_class> {
+	        //inherits property and method from parent class
+	        //its own property and method
+	    }
+	
+	   <access_modifier> class <child_classn> : <parent_class> {
+	         //inherits property and method from parent class
+	        //its own property and method
+	    }
+
+7. Interface
+	Interface in C# defines what a class must do but not how it does it.
+	It contains method signature, properties, events or indexer -- but no implementation
+	A class or struct that implements an interface must provide the actual behavior for 	all its memeber
+	
+	KEY POINTS:
+	 interface keyword is used.
+	Cannot have fields or constructors
+	supports multiple interitance -> one child class implements multiple parent class
+	provides abstraction
+ 
+	SYNTAX:
+	interface <interface_name> {
+	    <return_type> method1();
+	    <return_type> method2();
+	    .
+	    .
+	    .
+	}
+
+8. this keyword
+9. base keyword
+10. Abstract class and Abstract Methods
+
+	
