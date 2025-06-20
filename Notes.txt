@@ -171,7 +171,38 @@ OOP in C# (NOTES)
 	}
 
 8. this keyword
+	this keyword in C# is a reference variable that is used to represent object of current 	class.
+	
+	USES:
+		-> to avoid naming confliction between parameter of constructor or method and 			property of class
+		-> to invoke method or property of current class
+		-> as parameter or argument of method
+		-> used to define indexer
 9. base keyword
+	base keyword in C# is a reference variable that represents object or instance.
+	
+	USES:
+		-> to invoke constructor or immediate parent class (i.e base(<parameter>))
+		-> used to invoke member function or method of immediate parent class (i.e. 			base.<method_name>(<parameter>)
+		-> used to access property of immediate parent class i.e base.<property_name>
+
 10. Abstract class and Abstract Methods
+	Abstract class is defined with the abstract keyword that cannot be instantiated.
+	Abstract class can contain abstract methods and non abstract methods or both
+	Abstract class is inherited (i.e special base class)
+
+	SYNTAX:
+	<access_modifier> abstract class <class_name> {
+		//abstract method
+		//non abstract methods
+	}
+	
+
+	Abstract method is also defined with abstract keyword that have no implementation (i.e only 	declaration of the method)
+	Abstract method is overridden in child class
+
+	SYNTAX:
+	<access_modifier> abstract <return_type> <function_name>(<parameters>);
 
 	
+

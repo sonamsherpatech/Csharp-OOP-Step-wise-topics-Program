@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\AbstractClassAndMethods.exe.config
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\AbstractClassAndMethods.exe
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\AbstractClassAndMethods.pdb
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\AbstractClassAndMethods.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\AbstractClassAndMethods.exe
+C:\Users\DELL\Desktop\Dot Net Technology\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\AbstractClassAndMethods.pdb
