@@ -305,3 +305,83 @@ OOP in C# (NOTES)
 		Explanation:
 			Name --> Read-Write, fully auto.
 			Id --> Read-only, initialized only in the constructor or in declaration
+
+
+12) Indexer:
+	In C#, Indexer allows an object to be indexed like an array.
+	When indexer is defined within a class then class behave like virtual array.
+	Indexer is property of a class that allows to access member variable of class or struct using the feature of array (i.e array 	index)
+
+
+	WHY Indexer?
+	-> Encapsulate internal data but provide easy access.
+	-> Make your class more natural and intuitive to use.
+	-> Improve readability and maintainability.
+	-> Can add logic for bounds-checking, read-only or custom behavior when accessing elements.
+
+
+	SYNTAX:
+	<access_modifier> <type> this[<parameter_list>] {
+		get {
+			//statements
+		}
+		set {
+			//statements
+		}
+	}
+
+
+	EXAMPLE:
+	class MyClass{
+		private int[] data = new int[5];
+		
+		//Declare an indexer
+		public int this[int index] {
+			get{ return data[index]}
+			set{ data[index] = value}
+		}
+	}
+
+	Explanation:
+		-> this keyword with brackets [] declares an indexer
+		-> you must define at least get or set or both
+		-> You can have multiple indexers with different parameter types
+
+
+
+
+	// 0Using indexer in Main class
+	class Program {
+		static void Main(){
+			MyClass obj = new MyClass();
+			obj[0] = 10;
+			obj[1] = 20;
+
+			Console.WriteLine(obj[1]);
+			Console.WriteLine(obj[2]);
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
