@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\bin\Debug\_10.Polymorphism.exe.config
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\bin\Debug\_10.Polymorphism.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\bin\Debug\_10.Polymorphism.pdb
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\obj\Debug\10. Polymorphism.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\obj\Debug\10. Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\obj\Debug\_10.Polymorphism.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\10. Polymorphism\10. Polymorphism\obj\Debug\_10.Polymorphism.pdb

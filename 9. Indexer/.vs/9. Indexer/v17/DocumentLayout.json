@@ -3,18 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\9. indexer\\9. indexer\\indexerex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|solutionrelative:9. indexer\\indexerex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|9. Indexer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\9. indexer\\9. indexer\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|solutionrelative:9. indexer\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\9. indexer\\9. indexer\\indexerex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. indexer\\indexerex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|solutionrelative:9. indexer\\indexerex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\9. indexer\\9. indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. indexer\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|solutionrelative:9. indexer\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B06CBA36-69EF-4F45-AE52-C47C75026A84}|9. Indexer\\9. Indexer.csproj|solutionrelative:9. indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,20 +36,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IndexerEx3.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx3.cs",
-              "RelativeDocumentMoniker": "9. Indexer\\IndexerEx3.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx3.cs",
-              "RelativeToolTip": "9. Indexer\\IndexerEx3.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T05:44:57.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "9. Indexer",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\9. Indexer.csproj",
               "RelativeDocumentMoniker": "9. Indexer\\9. Indexer.csproj",
@@ -53,11 +44,38 @@
               "RelativeToolTip": "9. Indexer\\9. Indexer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-22T05:42:46.236Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "IndexerEx4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx4.cs",
+              "RelativeDocumentMoniker": "9. Indexer\\IndexerEx4.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx4.cs",
+              "RelativeToolTip": "9. Indexer\\IndexerEx4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:29:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexerEx3.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx3.cs",
+              "RelativeDocumentMoniker": "9. Indexer\\IndexerEx3.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx3.cs",
+              "RelativeToolTip": "9. Indexer\\IndexerEx3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:44:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IndexerEx2.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\IndexerEx2.cs",
               "RelativeDocumentMoniker": "9. Indexer\\IndexerEx2.cs",
@@ -70,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\9. Indexer\\9. Indexer\\Program.cs",
               "RelativeDocumentMoniker": "9. Indexer\\Program.cs",
@@ -78,8 +96,7 @@
               "RelativeToolTip": "9. Indexer\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T05:05:02.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T05:05:02.646Z"
             }
           ]
         }

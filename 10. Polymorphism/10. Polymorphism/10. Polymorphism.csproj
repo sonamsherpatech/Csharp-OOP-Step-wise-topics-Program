@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B06CBA36-69EF-4F45-AE52-C47C75026A84}</ProjectGuid>
+    <ProjectGuid>{578ED520-A631-4F76-BB90-73A271CC8DCC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_9.Indexer</RootNamespace>
-    <AssemblyName>_9.Indexer</AssemblyName>
+    <RootNamespace>_10.Polymorphism</RootNamespace>
+    <AssemblyName>_10.Polymorphism</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_9.Indexer.IndexerEx4</StartupObject>
+    <StartupObject>_10.Polymorphism.methodoverloadingex2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IndexerEx2.cs" />
-    <Compile Include="IndexerEx3.cs" />
-    <Compile Include="IndexerEx4.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="methodoverloadingex1.cs" />
+    <Compile Include="methodoverloadingex2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

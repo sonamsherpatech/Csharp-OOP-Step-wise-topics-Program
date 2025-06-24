@@ -362,18 +362,36 @@ OOP in C# (NOTES)
 		}
 	}
 
+13) Polymorphism
+	Polymorphism means many forms. In c#, Polymorphism allows the same operation, method, 	or object to behave differently in different contexts. It is another core principle of 	OOP.
+
+	WHY POLYMORPHISM?
+	-> Code reusability.
+	-> Maintainability
+	
+	TYPES OF POLYMORPHISM:
+		 There are two main types of polymorphism:
+			-> Compile Time Polymorphism(Static)
+			-> Run Time Polymorphism(Dynamic)
+
+		Difference Between Compile Time Polymorphism and Run Time Polymorphism
+		Compile Time Polymorphism		Run Time Polymorphism
+		-> aka Static Polymorphism, early	-> aka Dynamix polymorphism, late 
+		   binding				   binding
+		-> The method to execute is determined	-> The method to execute is determined
+		   by the compiler at compile time	   at runtime, based on the actual 
+							   object type.
+		-> It is achieved using Method over-	-> It is achieved using Method   
+		  loading or Operator Overloading	   overriding(with virtual and 								   overriding keyword)
 
 
+	a) Method Overloading
+	Method overloading means having multiple methods in the same class with same name and 	different parameter lists(different type, number or order of parameter).
 
-
-
-
-
-
-
-
-
-
+	It's a form of compile-time polymorphism -- the compiler picks the correct methods 
+	based on the method signature used in the call.
+	
+	
 
 
 
