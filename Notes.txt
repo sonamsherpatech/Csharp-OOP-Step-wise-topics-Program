@@ -391,15 +391,58 @@ OOP in C# (NOTES)
 	It's a form of compile-time polymorphism -- the compiler picks the correct methods 
 	based on the method signature used in the call.
 	
+	SYNTAX:
+		<access_modifier> class <class_name> {
+			//overload-1: same method name, different parameter list
+			<access_modifier> <return_type>(<parameter_type1> param1) {
+				//method body	
+			} 
+			
+			//overload-2 same method name, different number or type/order of parameters
+			<access_modifier> <return_type>(<parameter_type1> param1,<parameter_type> 			param2) {
+				//method body	
+			} 
+		}
+
 	
+	b) Operator Overloading
+		Operator Overloading means redefining how operators(+,-, etc) work for your custom 	class or struct. This makes your object behave like a built-in type in expressions. 
 
+	Example:
+		Complex c1, c2;
+		Complex c3 = c1 + c2;
+	Without operator overloading, the compiler won't know how to + two custom objects.
+	
+	WHY Operator Overloading:
+		-> to make custom types intuitive and natural to use
+		-> to support arithmetic, comparison, or logical operations on user-defined objects
+		
+	How does it work in c#?
+		-> C# only lets you overload operators for user-defined types(class or struct)
+		-> You cannot create new operators -- only redefine existing ones
+		-> Overloaded operators must be declared public static inside the class/struct
 
+	SYNTAX:
+		public static <return_type> operator <operator>(<parameters>) {
+			//logic here
+		}
+	Example:
+		public static Complex operator +(Complex c1, Complex c2) {
+			//define how to add
+		}
 
+	Which Operators can be overloaded?
+	Category				Operators
+	Arithmetic				+,-,*,/,%
+	Comparison				==,!=,<,>,<=,>=
+	Unary 					+,-,!,~,++,--,true,false
+	Logical/Bitwise				&,`
 
-
-
-
-
+	Special Rules:
+	-> == and != must be overloaded together
+	-> < and > must be overloaded together
+	-> <= and >= must be overloaded together
+	-> cannot overload: =, &&, ||, [], (), ?:, new
 
 
 
