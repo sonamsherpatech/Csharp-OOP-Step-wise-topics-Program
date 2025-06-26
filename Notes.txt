@@ -363,7 +363,7 @@ OOP in C# (NOTES)
 	}
 
 13) Polymorphism
-	Polymorphism means many forms. In c#, Polymorphism allows the same operation, method, 	or object to behave differently in different contexts. It is another core principle of 	OOP.
+	Polymorphism means many forms. In c#, Polymorphism allows the same operation, method, or object to behave differently in different contexts. It is another core principle of OOP.
 
 	WHY POLYMORPHISM?
 	-> Code reusability.
@@ -382,7 +382,7 @@ OOP in C# (NOTES)
 		   by the compiler at compile time	   at runtime, based on the actual 
 							   object type.
 		-> It is achieved using Method over-	-> It is achieved using Method   
-		  loading or Operator Overloading	   overriding(with virtual and 								   overriding keyword)
+		  loading or Operator Overloading	   overriding(with virtual and overriding keyword)
 
 
 	a) Method Overloading
@@ -399,14 +399,14 @@ OOP in C# (NOTES)
 			} 
 			
 			//overload-2 same method name, different number or type/order of parameters
-			<access_modifier> <return_type>(<parameter_type1> param1,<parameter_type> 			param2) {
+			<access_modifier> <return_type>(<parameter_type1> param1,<parameter_type> param2) {
 				//method body	
 			} 
 		}
 
 	
 	b) Operator Overloading
-		Operator Overloading means redefining how operators(+,-, etc) work for your custom 	class or struct. This makes your object behave like a built-in type in expressions. 
+		Operator Overloading means redefining how operators(+,-, etc) work for your custom class or struct. This makes your object behave like a built-in type in expressions. 
 
 	Example:
 		Complex c1, c2;

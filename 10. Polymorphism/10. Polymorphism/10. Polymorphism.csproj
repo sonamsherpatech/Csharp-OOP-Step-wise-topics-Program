@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_10.Polymorphism.operatoroverloadingex2</StartupObject>
+    <StartupObject>_10.Polymorphism.relationaloperatoroverloadingex2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,9 +49,12 @@
     <Compile Include="methodoverloadingex1.cs" />
     <Compile Include="methodoverloadingex2.cs" />
     <Compile Include="methodoverloadingex3.cs" />
+    <Compile Include="operatoroverloadingex3.cs" />
     <Compile Include="operatoroverloadingex1.cs" />
     <Compile Include="operatoroverloadingex2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="relationaloperatoroverloadingex1.cs" />
+    <Compile Include="relationaloperatoroverloadingex2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
