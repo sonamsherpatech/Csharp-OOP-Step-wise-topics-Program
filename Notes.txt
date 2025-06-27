@@ -444,5 +444,22 @@ OOP in C# (NOTES)
 	-> <= and >= must be overloaded together
 	-> cannot overload: =, &&, ||, [], (), ?:, new
 
+	ii) Runtime Polymorphism
+	a) Method overriding
+	-> Method Overriding allows a derived child class to provide specific implementation of a method that is already defined in its base parent class 
 
+	SYNTAX:
+	public class <base_class>{
+		public virtual void Display() {
+			Console.WriteLine("Base class Display");
+		}
+	}
 
+	public class <derived_class> : <base_class>{
+		public override void Display() {
+			Console.WriteLine("Derived Class Display");
+		}
+	}
+
+	-> virtual keyword: used in the base class to allow overriding
+	-> override keyword: used in the derived class to override the base method
