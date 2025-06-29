@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\bin\Debug\_11.Generic_Collections.exe.config
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\bin\Debug\_11.Generic_Collections.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\bin\Debug\_11.Generic_Collections.pdb
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\obj\Debug\11. Generic_Collections.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\obj\Debug\11. Generic_Collections.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\obj\Debug\_11.Generic_Collections.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\11. Generic_Collections\11. Generic_Collections\obj\Debug\_11.Generic_Collections.pdb

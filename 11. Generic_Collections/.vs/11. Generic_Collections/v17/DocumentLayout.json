@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\dictonarygenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\dictonarygenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|11. Generic_Collections||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\linkedlistgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\linkedlistgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\queuegenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\queuegenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\stackgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\stackgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\listgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\listgenericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\userdefinedgenericcollectionex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\userdefinedgenericcollectionex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. generic_collections\\userdefinedgenericcollectionex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|solutionrelative:11. generic_collections\\userdefinedgenericcollectionex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167E653-58C9-4D2A-9B28-2B7FF8805160}|11. Generic_Collections\\11. Generic_Collections.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\11. generic_collections\\11. generic_collections\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11. Generic_Collections",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\11. Generic_Collections.csproj",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\11. Generic_Collections.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\11. Generic_Collections.csproj",
+              "RelativeToolTip": "11. Generic_Collections\\11. Generic_Collections.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T09:28:07.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dictonarygenericcollection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\dictonarygenericcollection.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\dictonarygenericcollection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\dictonarygenericcollection.cs",
+              "RelativeToolTip": "11. Generic_Collections\\dictonarygenericcollection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:20:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "linkedlistgenericcollection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\linkedlistgenericcollection.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\linkedlistgenericcollection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\linkedlistgenericcollection.cs",
+              "RelativeToolTip": "11. Generic_Collections\\linkedlistgenericcollection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:05:25.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "queuegenericcollection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\queuegenericcollection.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\queuegenericcollection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\queuegenericcollection.cs",
+              "RelativeToolTip": "11. Generic_Collections\\queuegenericcollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:02:04.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stackgenericcollection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\stackgenericcollection.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\stackgenericcollection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\stackgenericcollection.cs",
+              "RelativeToolTip": "11. Generic_Collections\\stackgenericcollection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:49:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listgenericcollection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\listgenericcollection.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\listgenericcollection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\listgenericcollection.cs",
+              "RelativeToolTip": "11. Generic_Collections\\listgenericcollection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:42:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userdefinedgenericcollectionex2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\userdefinedgenericcollectionex2.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\userdefinedgenericcollectionex2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\userdefinedgenericcollectionex2.cs",
+              "RelativeToolTip": "11. Generic_Collections\\userdefinedgenericcollectionex2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:21:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userdefinedgenericcollectionex1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\userdefinedgenericcollectionex1.cs",
+              "RelativeDocumentMoniker": "11. Generic_Collections\\userdefinedgenericcollectionex1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\11. Generic_Collections\\11. Generic_Collections\\userdefinedgenericcollectionex1.cs",
+              "RelativeToolTip": "11. Generic_Collections\\userdefinedgenericcollectionex1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:16:41.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

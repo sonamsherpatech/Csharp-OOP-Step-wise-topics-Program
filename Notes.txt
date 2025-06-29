@@ -463,3 +463,16 @@ OOP in C# (NOTES)
 
 	-> virtual keyword: used in the base class to allow overriding
 	-> override keyword: used in the derived class to override the base method
+
+14) Generic Collections
+	-> Generic Collections is a concept that allows us to define class and method with placeholder
+	-> C# Compiler replace these placeholder with specified datatype at compile time
+	-> The concept of generic is used to define general purpose class and method using angle bracket<T>
+	-> The .NET framework 2.0 class library provide new namespace
+	-> System.Collection.Generic which contains several generic based class like:
+		->List<T>
+		->Dictionary<Tkey, Tvalue>
+		->Stack<T>
+		->Queue<T>
+		->LinkedList<T>
+	 
