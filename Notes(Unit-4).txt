@@ -1,0 +1,41 @@
+UNIT-4
+
+1) Delegate
+	- Delegate in a C# is a powerful concept that allows method to be passed as parameters, stored in variables and called dynamically
+	- Delegate is a type safe function pointer that holds the method reference in an object.
+	- The reference of method in delegate changed dynamically.
+	- It enforces type safety: meaning only methods with same signature can be store.
+
+	USE:
+	   - Delegate helps in code optimization 
+	   - Delegate can be used to call method asynchronously
+	   - It encapsulate  method call from caller
+	   - Efficient use of delegate improve the performance of application
+	   - Event Handiling
+	
+	SYNTAX:
+	<access_modifier> delegate <return_type_of_delegate> <delegate_name> (<parameter>);
+
+	TYPES of Delegate:
+	There are two types of delegate. They are:
+		1) Single Cast Delegate
+		2) Multi Cast Delegate
+
+	1) Single Cast Delegate:
+		It holds or points the reference of single method at a time
+		It is inherited from System.Delegate Class
+
+		Step to perform delegate in our application
+		1) Define method
+		2) Define Delegate
+		3) create instance of Delegate
+		4) call or invoke method via delegate
+
+	2) Multi Cast Delegate:
+		When delegate wrapped with the reference of more than one method, then this delegate is know as multicast delegate
+		Multicast delegates points or holds the reference of multiple method at a time
+		Multicast delegate is inherited from System.MulticastDelegate
+		We have to use + or += operator to bind reference of multiple method in delegate and use - or -= to remove reference of method from delegate
+
+
+
