@@ -21,7 +21,7 @@ UNIT-4
 		1) Single Cast Delegate
 		2) Multi Cast Delegate
 
-	1) Single Cast Delegate:
+	i) Single Cast Delegate:
 		It holds or points the reference of single method at a time
 		It is inherited from System.Delegate Class
 
@@ -31,11 +31,48 @@ UNIT-4
 		3) create instance of Delegate
 		4) call or invoke method via delegate
 
-	2) Multi Cast Delegate:
+	ii) Multi Cast Delegate:
 		When delegate wrapped with the reference of more than one method, then this delegate is know as multicast delegate
 		Multicast delegates points or holds the reference of multiple method at a time
 		Multicast delegate is inherited from System.MulticastDelegate
 		We have to use + or += operator to bind reference of multiple method in delegate and use - or -= to remove reference of method from delegate
+
+
+2) Inline Method
+	- An inline method is any method that is directly defined ad the point of use instead of creating a named method separately. It is mainly used with delegates, events and LINQ
+
+	There are two ways to represent inline method:
+		- Anonymous Method
+		- Lambda Expression
+
+	i) Anonymous Method
+		- Anonymous Method provides the technique to pass block of code i.e. method definition as delegate parameter.
+		- Anonymous Method is a method without a name, but having body and declared when create instance of delegate using delegate keyword.
+
+	SYNTAX:
+	<delegate_type> <variable_name> = delegate(parameters) {
+		//method name
+	}
+
+	ii) Lambda Expression
+		- Lambda is shorter, cleaner way to write anonymous methods using the => (lambda operator).
+		- Lambda Expression is composed of function parameter, lambda operator(=>) and expression or sequence statement
+	SYNTAX:
+		(<parameters>) => expression;
+
+	There are two type of lambda expression:
+	i) Expression Lambda
+		It contains only single line expression
+		eg: (<parameters>) => expression;
+
+	ii) Statement Lambda
+		It contains sequences of statement enclosed with {} braces
+		eg: (<parameters>) => {statements};
+
+
+
+
+
 
 
 

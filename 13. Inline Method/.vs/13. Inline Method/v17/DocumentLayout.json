@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\13. inline method\\13. inline method\\inlinemethodex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|solutionrelative:13. inline method\\inlinemethodex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|13. Inline Method||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\13. inline method\\13. inline method\\linlinemethodex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|solutionrelative:13. inline method\\linlinemethodex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\13. inline method\\13. inline method\\inlinemethodex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|solutionrelative:13. inline method\\inlinemethodex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\13. inline method\\13. inline method\\inlinemethodex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|solutionrelative:13. inline method\\inlinemethodex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203CE318-DD8E-471C-81DB-8DEDA1DEC698}|13. Inline Method\\13. Inline Method.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\13. inline method\\13. inline method\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "13. Inline Method",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\13. Inline Method.csproj",
+              "RelativeDocumentMoniker": "13. Inline Method\\13. Inline Method.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\13. Inline Method.csproj",
+              "RelativeToolTip": "13. Inline Method\\13. Inline Method.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T05:10:37.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inlinemethodex4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex4.cs",
+              "RelativeDocumentMoniker": "13. Inline Method\\inlinemethodex4.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex4.cs",
+              "RelativeToolTip": "13. Inline Method\\inlinemethodex4.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:17:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "linlinemethodex3.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\linlinemethodex3.cs",
+              "RelativeDocumentMoniker": "13. Inline Method\\linlinemethodex3.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\linlinemethodex3.cs",
+              "RelativeToolTip": "13. Inline Method\\linlinemethodex3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:12:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inlinemethodex2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex2.cs",
+              "RelativeDocumentMoniker": "13. Inline Method\\inlinemethodex2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex2.cs",
+              "RelativeToolTip": "13. Inline Method\\inlinemethodex2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:07:18.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inlinemethodex1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex1.cs",
+              "RelativeDocumentMoniker": "13. Inline Method\\inlinemethodex1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\13. Inline Method\\13. Inline Method\\inlinemethodex1.cs",
+              "RelativeToolTip": "13. Inline Method\\inlinemethodex1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:01:21.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

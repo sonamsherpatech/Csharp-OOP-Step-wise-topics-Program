@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\bin\Debug\_13.Inline_Method.exe.config
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\bin\Debug\_13.Inline_Method.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\bin\Debug\_13.Inline_Method.pdb
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\obj\Debug\13. Inline Method.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\obj\Debug\13. Inline Method.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\obj\Debug\_13.Inline_Method.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\13. Inline Method\13. Inline Method\obj\Debug\_13.Inline_Method.pdb
