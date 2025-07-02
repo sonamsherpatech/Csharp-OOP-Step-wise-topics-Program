@@ -39,7 +39,7 @@ UNIT-4
 
 
 2) Inline Method
-	- An inline method is any method that is directly defined ad the point of use instead of creating a named method separately. It is mainly used with delegates, events and LINQ
+	- An inline method is any method that is directly defined at the point of use instead of creating a named method separately. It is mainly used with delegates, events and LINQ
 
 	There are two ways to represent inline method:
 		- Anonymous Method
@@ -70,9 +70,23 @@ UNIT-4
 		eg: (<parameters>) => {statements};
 
 
+3) Generic Delegate
+	-> A generic delegate is a predefined delegate that can work with any data type, because it uses generics <T>. It saves us from writing new delegate definitions each time.
+
+	There are three types of generic delegate define in System namespace:
+		i) Func delegate
+		ii) Action delegate
+		iii) Predicate delegate
 
 
+	i) Func Delegate
+		- Func delegate represents zero, one or more input parameter and only one return output value method.
+		SYNTAX:	Func<in t1, in t2 ..., in t16, out tres>();
+	
+	ii) Action Delegate 
+		- Action delegate represents zero, one or more input parameter and nothing to return method.
+		SYNTAX: Action<in T1, in T2 ..., in T16>();
 
-
-
-
+	iii) Predicate Delegate
+		- Predicate delegate is used to check certain codition for a input parameter and return Boolean value method
+		SYNTAX: Predicate <in T>();
