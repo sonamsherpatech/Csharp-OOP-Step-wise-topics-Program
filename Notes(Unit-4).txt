@@ -90,3 +90,27 @@ UNIT-4
 	iii) Predicate Delegate
 		- Predicate delegate is used to check certain codition for a input parameter and return Boolean value method
 		SYNTAX: Predicate <in T>();
+
+4) Event and Event Handling
+	An event is a way for one object (publisher) to notify other objects(subscribers) that something has happened. Eg: Clicking on button, scrolling window, mouse click, mouse move, key type, system generated notification etc
+
+	Event handling is a mechanism to generate response when event occurs.
+	In c#, delegation event model is used to handle event.
+
+	Delegation event model includes Publisher and Subscriber
+	Publisher-> It is responsible to generate event, Publisher class contains the event and delegate
+	Subscriber -> It is responsible to respond when publisher publish event. Subscriber class contain method where response is created.
+
+	BASIC SYNTAX/ FLOW:
+	//step-1 Define a delegate
+	public delegate void <delegate_name>(<parameters>);
+
+	//step-2 Define event in publisher
+	public event <delegate_name> <delegate_object_name>;
+
+	//step-3 Raise the event
+	if(<delegate_object_name> != null) 
+		<delegate_object_name>.Invoke(); //Triggerign the event
+	
+	//Step-4 In subscriber, define method and subscribe
+	publisher.<delegate_object_name> += <response_event_method>; 

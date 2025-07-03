@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\bin\Debug\_15.event_and_event_handiling.exe.config
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\bin\Debug\_15.event_and_event_handiling.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\bin\Debug\_15.event_and_event_handiling.pdb
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\obj\Debug\15. event and event handiling.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\obj\Debug\15. event and event handiling.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\obj\Debug\_15.event_and_event_handiling.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\15. event and event handiling\15. event and event handiling\obj\Debug\_15.event_and_event_handiling.pdb
