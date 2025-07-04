@@ -114,3 +114,85 @@ UNIT-4
 	
 	//Step-4 In subscriber, define method and subscribe
 	publisher.<delegate_object_name> += <response_event_method>; 
+
+5) Exception and Exception Handiling
+	
+	Exception is a problem that arises during execution of program(Runtime Error) that disrupts the normal flow of a program
+	It can occurs due to:
+		- Wrong Supplied Input
+		- Wrong implementation of logic
+		- Insufficient supply resource
+	If we don't handle exception, the program will crash and show ugly error message.
+
+	In c#, exception are handled by using 5 keywords:
+	- try
+	- catch
+	- throw
+	- throws
+	- finally
+
+	SYNTAX:
+	try {
+		//code that might throw an exception
+	} catch(ExceptionType1 ex) {
+		// Exception handle code for type1
+	} catch(ExceptionType2 ex){
+		// Exception handle code for type2
+	} 
+	.
+	.
+	.
+	catch(ExceptionTypen ex) {
+		// Exception handle code for typen
+	} finally {
+		// Optional Code that always runs, even if an error occurs
+	}
+
+	NESTED TRY CATCH:
+	A nested try--catch means putting one try..catch inside another. This is useful when you want to handle different parts of code separately and exception inside an inner block shouldn't crash the entire outer block
+
+	SYNTAX:
+	try
+	{
+    		// Outer try block
+
+    		try
+    		{
+        		// Inner try block
+    		}
+    		catch (ExceptionType1 e)
+    		{
+        		// Handle inner exception
+    		}
+	}
+	catch (ExceptionType2 e)
+	{
+    		// Handle outer exception
+	}
+
+
+
+	TYPES OF EXCEPTION:
+	There are generally two types of exception:
+	i) System Exception --> These are predefined exceptions that are part of the .NET System namespaces. They represent error caused by the runtime system -- like dividing by zero, null references, out of range issues and many more
+	Common System Exception are:
+		a) DivideByZeroException
+		b) IndexOutOfRangeException
+		c) FormatException
+		d) NullReferenceException
+		e) IOException	
+			-FileNotFoundException
+			-ClassNotFoundException
+			-StackOverflowException
+	ii) Application Exception(User Defined Exception) --> These are custom exceptions created by developers to represent business logic or application-specific errors.
+	Steps to create user-defined Exceptions:
+		a) first create user-defined exception by extending ApplicationException class
+		i.e
+		public class <custom_exception_name> : ApplicationException {
+			public <custom_exceptio_name>(string msg) : base(msg){}
+		}
+		
+		b) Use 'throw' keyword in try block if user defined exception occur.
+		i.e.
+		throw new <custom_exception_name>(msg);
+

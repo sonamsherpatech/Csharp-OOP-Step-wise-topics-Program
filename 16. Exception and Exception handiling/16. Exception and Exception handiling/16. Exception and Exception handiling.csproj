@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5BA6187F-A4E8-4C30-B34F-0841E31727B9}</ProjectGuid>
+    <ProjectGuid>{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_15.event_and_event_handiling</RootNamespace>
-    <AssemblyName>_15.event_and_event_handiling</AssemblyName>
+    <RootNamespace>_16.Exception_and_Exception_handiling</RootNamespace>
+    <AssemblyName>_16.Exception_and_Exception_handiling</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_15.event_and_event_handiling.eventhandlingex4</StartupObject>
+    <StartupObject>_16.Exception_and_Exception_handiling.exceptionhandiligex3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="eventhandlingex1.cs" />
-    <Compile Include="eventhandlingex2.cs" />
-    <Compile Include="eventhandlingex3.cs" />
-    <Compile Include="eventhandlingex4.cs" />
+    <Compile Include="exceptionhandiligex3.cs" />
+    <Compile Include="exceptionhandilingex1.cs" />
+    <Compile Include="exceptionhandilingex2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
