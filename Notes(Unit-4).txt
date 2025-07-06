@@ -196,3 +196,27 @@ UNIT-4
 		i.e.
 		throw new <custom_exception_name>(msg);
 
+6) LINQ(Language INtegrated Query)
+	- LINQ is a uniform programming language model provided by .NET framework to enable query from various data sources such as collection object, SQL database, XML documents, entity framework, ADO.NET dataset, web services and other objects like Generic and collection. 
+
+**Check out image on GitHub (LINQ_Images folder (linq-query-on-different-data-source)) for detail understanding
+
+	- LINQ is strongly typed and checked at compile time
+	- Data represent in LINQ as sequence and elements
+	for ex: 
+		string [] names = {"hari","shyam","milan"}
+		here: names == sequence
+		      hari, shyam, milan == elements
+
+**Check out image on GitHub (LINQ_Images folder (internal-linq-process)) for detail understanding
+
+	Query Expression - Query Expression is a query expressed in query syntax that contains set of clause written in declarative syntax like sql, xquery etc
+	SYNTAX:
+		from <identifier> in <datasource>
+		where <predicate> [optional]
+		select <identifier> [or groupBy]
+
+	In IEnumerable<T>, all the data is fetched from the data source first, and then the filtering happens in the application (in memory) which is in System.Collections.Generic namespace.
+	In IQueryable<T>, the filtering happens at the data source level (e.g., in SQL Server), and only the filtered result is fetched into the application which is in System.linq namespace.
+
+**Check out image on GitHub (LINQ_Images folder (IEumerable-IQueryable)) for detail understanding

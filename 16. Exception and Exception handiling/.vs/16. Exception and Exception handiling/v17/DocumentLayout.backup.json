@@ -6,15 +6,19 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|16. Exception and Exception handiling||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\16. exception and exception handiling\\16. exception and exception handiling\\exceptionhandiligex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\16. exception and exception handiling\\16. exception and exception handiling\\xceptionhandilingex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|solutionrelative:16. exception and exception handiling\\xceptionhandilingex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. exception and exception handiling\\exceptionhandiligex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|solutionrelative:16. exception and exception handiling\\exceptionhandiligex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\16. exception and exception handiling\\16. exception and exception handiling\\exceptionhandilingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. exception and exception handiling\\exceptionhandilingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|solutionrelative:16. exception and exception handiling\\exceptionhandilingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\16. exception and exception handiling\\16. exception and exception handiling\\exceptionhandilingex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. exception and exception handiling\\exceptionhandilingex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}|16. Exception and Exception handiling\\16. Exception and Exception handiling.csproj|solutionrelative:16. exception and exception handiling\\exceptionhandilingex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,6 +50,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "xceptionhandilingex4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. Exception and Exception handiling\\xceptionhandilingex4.cs",
+              "RelativeDocumentMoniker": "16. Exception and Exception handiling\\xceptionhandilingex4.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. Exception and Exception handiling\\xceptionhandilingex4.cs",
+              "RelativeToolTip": "16. Exception and Exception handiling\\xceptionhandilingex4.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:16:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "exceptionhandiligex3.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. Exception and Exception handiling\\exceptionhandiligex3.cs",
               "RelativeDocumentMoniker": "16. Exception and Exception handiling\\exceptionhandiligex3.cs",
@@ -53,12 +70,11 @@
               "RelativeToolTip": "16. Exception and Exception handiling\\exceptionhandiligex3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T05:21:37.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:21:37.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "exceptionhandilingex2.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. Exception and Exception handiling\\exceptionhandilingex2.cs",
               "RelativeDocumentMoniker": "16. Exception and Exception handiling\\exceptionhandilingex2.cs",
@@ -66,12 +82,11 @@
               "RelativeToolTip": "16. Exception and Exception handiling\\exceptionhandilingex2.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T05:16:32.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:16:32.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "exceptionhandilingex1.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\16. Exception and Exception handiling\\16. Exception and Exception handiling\\exceptionhandilingex1.cs",
               "RelativeDocumentMoniker": "16. Exception and Exception handiling\\exceptionhandilingex1.cs",
@@ -79,8 +94,7 @@
               "RelativeToolTip": "16. Exception and Exception handiling\\exceptionhandilingex1.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T04:58:55.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T04:58:55.998Z"
             }
           ]
         }

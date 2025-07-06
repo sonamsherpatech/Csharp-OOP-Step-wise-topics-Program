@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\obj\Debug\17. LINQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\obj\Debug\17. LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\bin\Debug\_17.LINQ.exe.config
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\bin\Debug\_17.LINQ.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\bin\Debug\_17.LINQ.pdb
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\obj\Debug\_17.LINQ.exe
+C:\Users\DELL\Desktop\All\Dot Net Technology\17. LINQ\17. LINQ\obj\Debug\_17.LINQ.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A1CF9D7-F95E-4D84-9124-9AA6888D57A2}</ProjectGuid>
+    <ProjectGuid>{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_16.Exception_and_Exception_handiling</RootNamespace>
-    <AssemblyName>_16.Exception_and_Exception_handiling</AssemblyName>
+    <RootNamespace>_17.LINQ</RootNamespace>
+    <AssemblyName>_17.LINQ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_16.Exception_and_Exception_handiling.xceptionhandilingex4</StartupObject>
+    <StartupObject>_17.LINQ.linqex3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="exceptionhandiligex3.cs" />
-    <Compile Include="exceptionhandilingex1.cs" />
-    <Compile Include="exceptionhandilingex2.cs" />
+    <Compile Include="linqex2.cs" />
+    <Compile Include="linqex3.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="xceptionhandilingex4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
