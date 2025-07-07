@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_17.LINQ.linqex3</StartupObject>
+    <StartupObject>_17.LINQ.linqex5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="linqex2.cs" />
     <Compile Include="linqex3.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="linqex1.cs" />
+    <Compile Include="linqex4.cs" />
+    <Compile Include="linqex5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

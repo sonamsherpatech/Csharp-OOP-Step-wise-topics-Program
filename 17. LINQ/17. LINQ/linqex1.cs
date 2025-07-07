@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _17.LINQ
 {
-    class Program
+    class linqex1
     {
         static void Main()
         {

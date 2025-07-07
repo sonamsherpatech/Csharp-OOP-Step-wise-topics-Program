@@ -220,3 +220,28 @@ UNIT-4
 	In IQueryable<T>, the filtering happens at the data source level (e.g., in SQL Server), and only the filtered result is fetched into the application which is in System.linq namespace.
 
 **Check out image on GitHub (LINQ_Images folder (IEumerable-IQueryable)) for detail understanding
+
+	
+	LINQ Method: LINQ Method syntax uses extension method. The compiler converts query syntax into method syntax at compiler time.
+	
+	SYNTAX:
+	var result = list.where(num => num % 2 != 0)
+
+	Standard LINQ Operator: 
+	A set of extension method forming query pattern is known as standard LINQ operator.
+
+	Classification		Standard LINQ operator
+	filter			Where, OfType<T>
+	sorting			OrderBy,OrderByDescending, ThenBy, ThenyBy, Descending, Reverse
+	Aggregation		Aggregate, Min, Max, Count, Average, Sum
+	Quantifier		All, Any, Contains
+	Set			Union, Intersect, Distinct, Except
+	Grouping		GroupBy, ToLookUp
+	Elements 		ElementAt, ElementAtOrDefault, First, FirstOrDefault, Last, LastOrDefault,Single, SingleOrDefault
+	Project			Select, SelectMany
+	Concatenation		Concat
+	Particularing		Skip, SkipWhile, Take, TakeWhile
+	Equality		SequenceEqual
+	Generation		Empty, Range, Repeat, DefaultEmpty
+	Conversion		Cast, ToArray, ToDictionary, ToList
+	Joining 		GroupJoin, Join
