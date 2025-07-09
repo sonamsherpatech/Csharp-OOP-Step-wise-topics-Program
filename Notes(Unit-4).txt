@@ -245,3 +245,57 @@ UNIT-4
 	Generation		Empty, Range, Repeat, DefaultEmpty
 	Conversion		Cast, ToArray, ToDictionary, ToList
 	Joining 		GroupJoin, Join
+
+7) ADO .NET
+	ADO .NET (ActiveX Data Object) is database technology of .NET Platform that enables .NET Application to interact with various relational database.
+**Check out image on GitHub (ADO_Images folder (ADO.NET_Block_Diagram)) for detail understanding
+	
+	ADO .NET is module of .NET framework that contains set of class to connect, retrieve, insert, delete and update to/from relational database VIA .NET Application.
+
+	ADO .NET is Scalable and interoperable.
+	The ADO .NET Architecture have many two parts:
+	--> Data Provider (Connected architecture)
+	--> Dataset (Disconnected architecture)
+**Check out image on GitHub (ADO_Images folder (ADO.NET_Architeture)) for detail understanding
+**Check out image on GitHub (ADO_Images folder (ADO.NET_Connected_Architeture)) for detail understanding**Check out image on GitHub (ADO_Images folder (ADO.NET_Disconnected_Architeture)) for detail understanding
+
+	Data Provider: 
+	The .NET Data provider is used for connecting databas, specify and execute command and retrieve the data from database.
+	There are mainly four core components of .NET Framework data provider:	
+	i) Connection
+	ii) Command
+	iii) Data Reader
+	iv) Data Adapter
+
+	i) Connection: Connection Object is first component of .NET Data Provider and used to establish Connection between .NET Application and relational Database.
+	
+	Connection: MySqlConnection Class, SqlConnection Class
+	
+	SYNTAX:
+	MySqlConnection con = new MySqlConnection("server=localhost;database=dbname;uid=root;password='';");
+	
+	Method for Connection: -Open(), -Close()
+
+	ii) Command: Command Object is used to specify and execute the operation to be performed in Database.
+	
+	Command: MySqlCommand Class
+	
+	SYNTAX:
+	MySqlCommand cmd = new MySqlCommand(sql, con);
+
+	Method of CommandObject:
+	* ExecuteNonQuery() -> used to Execute insert, delete and update command
+	* ExecuteReader() -> used to execute select command for multiple value
+	* ExecuteScalar() -> Used to execute select command for single value
+
+	iii) Data Reader -> Data Reader object provides connection oriented access to data records in database. Data Reader objects are suitable for read-only access(i.e used to hold result of select command);
+	
+	Data Reader-> MySqlDataReader Class, SqlDataReader Class
+	
+	Method of Data Reader: -read()
+
+	iv) Data Adapter: Data Adapter acts as mediator between dataset and database. This helps the dataset to contain data form multiple database or other data source
+
+	Data Adapter: MySqlDataAdapter class, SqlDataAdapter Class
+
+	Method of Data Adapter: -fill() -update()

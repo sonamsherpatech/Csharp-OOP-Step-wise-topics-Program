@@ -3,14 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\17. linq\\17. linq\\linqex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|solutionrelative:17. linq\\linqex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|17. LINQ||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\17. linq\\17. linq\\linqex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. linq\\linqex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|solutionrelative:17. linq\\linqex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\17. linq\\17. linq\\linqex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. linq\\linqex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A03C09AF-393B-4256-B5F4-27BCC7F5B8B8}|17. LINQ\\17. LINQ.csproj|solutionrelative:17. linq\\linqex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,11 +44,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "17. LINQ",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\17. LINQ.csproj",
               "RelativeDocumentMoniker": "17. LINQ\\17. LINQ.csproj",
@@ -57,7 +61,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "linqex7.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex7.cs",
+              "RelativeDocumentMoniker": "17. LINQ\\linqex7.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex7.cs",
+              "RelativeToolTip": "17. LINQ\\linqex7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:25:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "linqex6.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex6.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex6.cs",
@@ -65,12 +82,11 @@
               "RelativeToolTip": "17. LINQ\\linqex6.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T02:02:02.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T02:02:02.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "linqex5.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex5.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex5.cs",
@@ -78,12 +94,11 @@
               "RelativeToolTip": "17. LINQ\\linqex5.cs",
               "ViewState": "AgIAAAABAAAAAAAAAAAowBEBAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T04:18:33.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T04:18:33.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "linqex4.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex4.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex4.cs",
@@ -95,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "linqex3.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex3.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex3.cs",
@@ -107,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "linqex2.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex2.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex2.cs",
@@ -119,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "linqex1.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\17. LINQ\\17. LINQ\\linqex1.cs",
               "RelativeDocumentMoniker": "17. LINQ\\linqex1.cs",
