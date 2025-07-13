@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\webapplication2\\webapplication2\\input.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\input.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\webapplication2\\webapplication2\\input.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\input.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\webapplication2\\webapplication2\\output.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\output.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|c:\\users\\dell\\desktop\\all\\dot net technology\\webapplication2\\webapplication2\\output.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F59F3FE6-5C25-470E-BF6A-F31364B69475}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\output.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\output.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\output.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\output.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\output.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:46:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\output.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\output.aspx",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\output.aspx",
+              "RelativeToolTip": "WebApplication2\\output.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-13T05:40:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\Input.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Input.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\Input.aspx.cs*",
+              "RelativeToolTip": "WebApplication2\\Input.aspx.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:15:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\Input.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Input.aspx",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\All\\Dot Net Technology\\WebApplication2\\WebApplication2\\Input.aspx",
+              "RelativeToolTip": "WebApplication2\\Input.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-13T05:02:59.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

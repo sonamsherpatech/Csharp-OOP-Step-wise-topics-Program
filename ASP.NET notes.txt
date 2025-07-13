@@ -1,0 +1,18 @@
+ASP.NET
+	ASP.NET is a framework developed by Microsoft for building modern web apps and services using:
+	-> HTML, CSS and JavaScript for front-end
+	-> C# or VB.NET for backend logic
+	-> Runs on .NET Framework or .NET Core
+
+Uses of ASP.NET
+	-> Fast and Secure
+	-> Rich in built-in features like authentication, session and form handling
+	-> Works well with Visual Studio
+	-> Good for both small and large web projects
+
+Types of ASP.NET Web Application:
+	1) ASP.NET Web Forms - older, drag-and-drop style
+	2) ASP.NET MVC - separation of concerns
+	3) ASP.NET Core - Modern, cross-platform, open-source
+	4) ASP.NET Razor Pages - simple, page-based model in ASP.NET Core
+
